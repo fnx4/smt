@@ -1,0 +1,11 @@
+{
+    "WMI_NAMESPACE": "root\\OpenHardwareMonitor",
+
+    "CPU_CORES": 8,
+
+    "GPU_TDP_LIMIT": 450,
+    "GPU_VRAM_LIMIT_GB": 24,
+
+    "CPU_TDP_LIMIT": 105,
+    "RAM_USAGE_LIMIT_GB": 64
+}
