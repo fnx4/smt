@@ -1,11 +1,12 @@
 {
-    "WMI_NAMESPACE": "root\\OpenHardwareMonitor",
+    "WMI_NAMESPACE": "root\\LibreHardwareMonitor",
+
+    "WINDOW_WIDTH": 400,
+    "WINDOW_HEIGHT": 950,
 
     "CPU_CORES": 8,
+    "CPU_THREADS": 16,
 
     "GPU_TDP_LIMIT": 450,
-    "GPU_VRAM_LIMIT_GB": 24,
-
-    "CPU_TDP_LIMIT": 105,
-    "RAM_USAGE_LIMIT_GB": 64
+    "CPU_TDP_LIMIT": 105
 }
